@@ -1,7 +1,7 @@
 public class HelloWorld {
 
 void display() {
-  System.out.println("Hello World");
+  System.out.println("Hello GitHub World");
 }
 
 public static void main(String args[]) {
